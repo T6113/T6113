@@ -1,7 +1,4 @@
-## Hi Coders👋
-
-
-## I'm Thomisha Myers - a.k.a T 🤩
+## Hi Coders I'm Thomisha Myers - a.k.a T 🤩👋
 
 ## I'm a Tech Student who love learning new things about Software Development, and an Insurance Sale Agent!
  So far on my journey
