@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there CODERS👋
 
-<!--
-**T6113/T6113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Thomisha Myers - a.k.a T 🤩
+
+I'm a  Tech Student, and an Insurance Sale Agent!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
