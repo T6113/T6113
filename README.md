@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on, my final stage for my stage 4 Project! 
 - 🌱 I’m currently learning, JavaScript and working with the DOM. 
 - 👯 I’m looking to Adanvece my career on my coding Journey.
-- ⚡ Fun fact: I'm actually funny in real life. 🤪
+- ⚡ Fun fact: I can solve a Rubik’s cube in under 30 seconds.
