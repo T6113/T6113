@@ -2,7 +2,7 @@
 
 ## I'm a Tech Student who loves learning new things about Software Development, and an Insurance Sale Agent!
  I'm a full-time student at TripleTen, So far on my journey I've lerned alot of interesting things about Software Engineering during my sprint assignments and projects.
- I've gained a wide range of knowledge based on the following Full Stack Development technologies: HTML/CSS,  flexbox, grid layout, BEM, Media queries, transition, Git, GitHub, VSCode, Figma, JavaScript, DOM, Debugging.
+ I've gained a wide range of knowledge based on the following Full Stack Development technologies: HTML/CSS,  flexbox, grid layout, BEM, Media queries, Git, Figma, JavaScript, React, DOM, Debugging.
  
 
 
