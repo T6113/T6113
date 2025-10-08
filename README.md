@@ -3,12 +3,10 @@
 
 📍 Passionate about building clean, responsive, and user-friendly web applications.
 
-## I'm a Tech Student who loves learning new things about Software Development, and an Insurance Sale Agent!
- I'm a full-time student at TripleTen, So far on my journey I've lerned alot of interesting things about Software Engineering during my sprint assignments and projects.
- I've gained a wide range of knowledge based on the following Full Stack Development technologies: HTML/CSS,  flexbox, grid layout, BEM, Media queries, Git, Figma, JavaScript, React, DOM, Debugging.
+ ## 🚀 About Me
+ I’m a software developer with a background in insurance sales and customer service, now transitioning into tech to solve real-world problems through code.
+ At TripleTen, I completed hands-on projects using modern full-stack technologies and developed strong problem-solving and teamwork skills.
  
-
-
 
 - 🔭 I’m currently working on, my final stage for my stage 4 Project! 
 - 🌱 I’m currently learning, JavaScript and working with the DOM. 
