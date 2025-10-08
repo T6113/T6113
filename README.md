@@ -15,6 +15,6 @@
 
  ## Current Focus
  
--  🎯 Completing my final Stage 4 project: Budget Buddy — a personal finance tracker with charts, authentication, and budgeting tools.
+-  🎯 Developing Budget Buddy — a personal finance tracker with charts, authentication, and budgeting tools.
 -  🧠 Exploring advanced JavaScript concepts and API integration. 
 -  🌱 Preparing to contribute to open-source projects and expand my portfolio.
