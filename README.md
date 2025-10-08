@@ -1,6 +1,5 @@
 ## Hi there!👋 I'm Thomisha Myers
 💻 Full Stack Developer | Software Engineering Graduate (TripleTen Bootcamp)
-
 📍 Passionate about building clean, responsive, and user-friendly web applications.
 
 ## I'm a Tech Student who loves learning new things about Software Development, and an Insurance Sale Agent!
